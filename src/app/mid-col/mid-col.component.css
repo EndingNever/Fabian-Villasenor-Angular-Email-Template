@@ -1,0 +1,12 @@
+.card-header {
+    background-color: white;
+    /* border: 2px solid red; */
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.top-row {
+    border: 2px solid red;
+}

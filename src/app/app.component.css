@@ -1,0 +1,17 @@
+.left-col {
+    background-color: rgb(206, 82, 82);
+}
+.mid-col {
+    background-color: rgba(212, 162, 25, 0.842);
+    /* border: 5px dashed purple; */
+}
+.right-col {
+    background-color: lavenderblush;
+}
+#left {
+    /* border: 2px solid green; */
+}
+ul li a{
+    color: wheat;
+    text-decoration: none;
+}
