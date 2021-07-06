@@ -1,6 +1,6 @@
 <div class="container-fluid">
   <div class="row vh-100">
-   <div class="col-2 left-col d-flex pt-2" id="left">
+   <div class="col-md-2 left-col d-flex pt-2" id="left">
      <div class="row-cols-1 mt-3 ms-2">
        <div class="">
          <p>Welcome Back!</p>
@@ -37,10 +37,10 @@
        </div>
      </div>
   </div>
-   <div class="col-4 mid-col vh-100">
+   <div class="col-md-4 mid-col vh-100">
      <app-mid-col (emailSelected)="onEmailReceived($event)"></app-mid-col>
     </div>
-    <div class="col-6 right-col vh-100">
+    <div class="col-md-6 right-col vh-100">
       <!-- <app-right-col></app-right-col> -->
       <app-test [currentEmail]="currentEmail"></app-test>
    </div>

@@ -10,3 +10,11 @@
 .top-row {
     border: 2px solid red;
 }
+
+.testCol:hover {
+    /* border: 10px dashed white; */
+    /* padding: 20px; */
+    -webkit-box-shadow: 7px 10px 12px -7px rgba(0, 0, 0, 0.918);
+    -moz-box-shadow: 7px 10px 12px -7px rgba(0, 0, 0, 0.918);
+    box-shadow: 7px 10px 12px -7px rgba(0, 0, 0, 0.918);
+}
